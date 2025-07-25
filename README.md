@@ -25,6 +25,9 @@ A simple executable Parking Management System built with **FastAPI**, **SQLite**
 Author
 Built by Tomas Vales as part of a practical portfolio for backend development.
 
+<img width="994" height="447" alt="image" src="https://github.com/user-attachments/assets/2f57e118-ea51-4c0f-9d2c-254bea7dcc84" />
+
+
 ## ▶️ How to Run
 
 1. Start the backend API:
